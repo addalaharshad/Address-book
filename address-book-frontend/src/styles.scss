@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    font-family: 'Nanum Gothic';
+}
+
+.logo {
+	background-color: rgb(51,153,204);
+    font-family:Tahoma, sans-serif;
+	font-size: 50px;
+	font-weight: normal;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	color: white;
+	position: relative;
+    left: 0;
+}
+
+.nav {
+	background-color: #303030;
+	padding-bottom: 2px;
+	padding-top: 6px;
+	padding-left: 16px;
+	padding-right: 16px;
+	margin-bottom: 0;
+	word-spacing: 30px;
+	height: 25px;
+	font-family:Tahoma, sans-serif;
+}
+
+.blog-icon {
+	float: right;
+	padding-right: 15px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+a:hover {
+	cursor: pointer;
+}
+
+.information {
+    font-family: Tahoma, sans-serif;
+}
